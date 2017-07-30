@@ -1,4 +1,4 @@
-i added and chnage a few things around for this to work with 3.50 3.15 and 3.55 with filebrowser
+i added and change a few things around for this to work with 3.50 3.15 and 3.55 with filebrowser
 
 
 # PS4 Playground (FW 3.55)
