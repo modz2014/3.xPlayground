@@ -1,3 +1,6 @@
+i added and chnage a few things around for this to work with 3.50 3.15 and 3.55 with filebrowser
+
+
 # PS4 Playground (FW 3.55)
 PS4 Playground is a project created around the 3.55 Code Execution Userland exploit created by xyz and ported by Fire30. The name and idea is based off CTurt's original "PS4 Playground" developed for FW 1.76. It currently only features a POC test of the exploit and a system information page. The project is still a WIP.
 
