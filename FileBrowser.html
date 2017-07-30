@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>PS4 File Browser</title>
+</head>
+
+<body>
+	<button id="exp" onclick="exploit()">Start Exploit</button>
+	<button id="pid" onclick="getpid()" disabled>Get Current PID</button>
+	<button id="mod" onclick="getmodules()" disabled>Get Modules</button>
+	<button id="testsok" onclick="testsock()" disabled>Test Socket</button>
+	<button id="dir" onclick="loaddir('/')" disabled>File Browser</button>
+	<button onclick="credit()">Credit</button>
+
+	<div id="directory"></div>
+</body>
+
+<script src="scripts1/long.js"></script>
+<script src="scripts1/jquery.min.js"></script>
+<script src="scripts1/js_utils.js"></script>
+<script src="scripts1/network_utils.js"></script>
+<script src="scripts1/mem_utils.js"></script>
+<script src="scripts1/rop.js"></script>
+<script src="scripts1/gadgets.js"></script>
+<script src="scripts1/exploit.js"></script>
+</html>
